@@ -2568,13 +2568,20 @@ input:checked+.slider:before {
         margin-left: 0;
         margin-right: 0;
     }
+    .fc1-2-2 a {
+    font-size: 12px;
+    }
 
     .fc1-1 {
         width: 102px;
     }
 
     .fc1-1 h1 {
-        font-size: 25px;
+        font-size: 24px;
+        margin-left: 14px;
+    }
+    .as {
+        margin-left: 0;
     }
 
     .imgw {
