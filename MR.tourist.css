@@ -2652,6 +2652,9 @@ input:checked+.slider:before {
         width: 85%;
 
     }
+    .c1-t h3 {
+    font-size: 97%;
+    }
 
     .col1 img {
         border-radius: 20px;
