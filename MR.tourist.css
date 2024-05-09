@@ -2553,13 +2553,20 @@ input:checked+.slider:before {
 
     .fc {
         margin-top: -134px;
-        height: 180px;
+        height: max-content;
         position: inherit;
+        width: 85%;
+        padding-left: 6%;
+        padding-right: 6%;
+        align-items: baseline;
+        justify-content: center;
 
     }
 
     .fcc {
         height: auto;
+        margin-left: 0;
+        margin-right: 0;
     }
 
     .fc1-1 {
