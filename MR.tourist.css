@@ -2567,6 +2567,8 @@ input:checked+.slider:before {
         height: auto;
         margin-left: 0;
         margin-right: 0;
+        padding: 3%;
+        width: 90%;
     }
     .fc1-2-2 a {
     font-size: 12px;
