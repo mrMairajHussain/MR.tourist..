@@ -2555,7 +2555,7 @@ input:checked+.slider:before {
     }
 
     .fc {
-        margin-top: -134px;
+        margin-top: -200px;
         height: max-content;
         position: inherit;
         width: 85%;
