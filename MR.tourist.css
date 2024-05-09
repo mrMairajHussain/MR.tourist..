@@ -2503,6 +2503,9 @@ input:checked+.slider:before {
     .navap {
         padding: 20px;
     }
+    .nav-m {
+    height: 50px;
+   }
 
     .nav-l {
         display: none;
@@ -2518,7 +2521,7 @@ input:checked+.slider:before {
         border-bottom-left-radius: 10px;
         border-top-left-radius: 10px;
         right: -19px;
-        top: 75px;
+        top: 55px;
 
 
     }
