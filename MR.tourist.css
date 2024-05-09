@@ -2911,10 +2911,19 @@ input:checked+.slider:before {
 
     .DL-c h1 {
         font-size: 60px;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 150px;
     }
 
     .DL-c span {
-        font-size: 22px;
+        font-size: 20px;
+        width: 70%;
+        margin-bottom: 50px;
+        margin-left: 0;
+        margin-right: 0;
+        text-align: center;
+
     }
 
     .st1 {
@@ -2924,51 +2933,75 @@ input:checked+.slider:before {
 
     .DL-c {
         height: 525px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     .RJ-c {
         height: 525px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     .LD-c {
         height: 525px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     .TN-c {
         height: 526px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     .RJ-c h1 {
         font-size: 60px;
-        margin-left: 20px;
-        margin-bottom: 125px;
+        margin-bottom: 150px;
+        margin-left: 0;
+        margin-right: 0;
     }
 
     .RJ-c span {
-        font-size: 23px;
-        margin: 25px;
-        margin-left: 30px;
+        font-size: 20px;
+        margin-left: 0;
+        margin-right: 0;
+        width: 70%;
+        margin-bottom: 50px;
     }
 
     .LD-c h1 {
         font-size: 60px;
-        margin-bottom: 135px;
+        margin-bottom: 150px;
+        margin-left: 0;
+        margin-right: 0;
     }
 
     .LD-c span {
-        font-size: 30px;
-        margin: 25px;
-        margin-left: 32px;
+        font-size: 20px;
+        width: 70%;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 50px;
     }
 
     .TN-c h1 {
-        font-size: 53px;
-        margin-bottom: 125px;
+        font-size: 60px;
+        margin-bottom: 150px;
+        margin-left: 0;
+        margin-right: 0;
     }
 
     .TN-c span {
-        font-size: 30px;
-        margin-left: 40px;
+        font-size: 20px;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 50px;
+        width: 70%;
     }
 
     .map-st {
@@ -2999,8 +3032,8 @@ input:checked+.slider:before {
     }
 
     .sta-nav1-1b {
-        width: 100px;
-        margin-right: 0px;
+        width: 84px;
+        margin-right: 20px;;
     }
 
     .sta-cr {
